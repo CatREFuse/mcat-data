@@ -1,0 +1,2 @@
+column_name,sample_size,mean,std,std_error,ci_lower,ci_upper,min,max
+prompt_count,21,146.381,49.2036,10.7371,123.9837,168.7782,73,293

@@ -1,0 +1,9 @@
+样本数据,检验方法,统计量,值,p,通过（p<0.05）
+SUS 评分,ANOVA,F,20.159,5.918e-05,通过
+USE 易用性评分,ANOVA,F,52.188,9.159e-09,通过
+USE 有效性评分,Welch's t,t,-6.687,2.717e-07,通过
+USE 有效性评分,Kruskal-Wallis,H,24.861,6.161e-07,通过
+USE 易学性评分,Welch's t,t,-23.479,4.031e-24,通过
+USE 易学性评分,Kruskal-Wallis,H,30.840,2.802e-08,通过
+USE 满意度评分,Welch's t,t,-8.909,1.433e-09,通过
+USE 满意度评分,Kruskal-Wallis,H,30.313,3.677e-08,通过
